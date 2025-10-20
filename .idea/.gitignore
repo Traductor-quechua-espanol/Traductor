@@ -1,0 +1,28 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+
+# Ignorar carpetas de IDEs (PyCharm, IntelliJ, VSCode)
+# Estas carpetas son de tu configuración local y no deben compartirse.
+.idea/
+.vscode/
+Scratches and Consoles/
+
+data/nor_red_seg_audios/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos generados por el modelo
+# Si "vocab.json" se crea automáticamente cuando entrenas, es bueno ignorarlo.
+# Si lo escribiste tú a mano, no pongas la siguiente línea.
+vocab.json
+
+# Ignorar carpetas de entorno virtual (muy recomendado)
+venv/
+.env/
+env/
